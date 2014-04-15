@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jna">
+    <CLASSES>
+      <root url="jar:///Applications/Processing 2.1.app/Contents/Java/modes/java/libraries/video/library/jna.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
