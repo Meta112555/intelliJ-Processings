@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="gstreamer-java">
-    <CLASSES>
-      <root url="jar:///Applications/Processing 2.1.app/Contents/Java/modes/java/libraries/video/library/gstreamer-java.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="intelliJTest2:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/intelliJTest2_jar</output-path>
-    <root id="archive" name="intelliJTest2.jar">
-      <element id="module-output" name="intelliJTest2" />
-      <element id="extracted-dir" path="/Applications/Processing 2.app/Contents/Java/core/library/core.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
