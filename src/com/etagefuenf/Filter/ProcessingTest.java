@@ -4,6 +4,7 @@ package com.etagefuenf.Filter;
  * Created by Johannes on 4/10/14.
  */
 //http://steve-yegge.blogspot.de/2006/03/execution-in-kingdom-of-nouns.html
+//faker
 
 import com.etagefuenf.Functions.BitShiftFunctions;
 import processing.core.PApplet;
